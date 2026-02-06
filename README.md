@@ -26,6 +26,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Transformer
 [Transformer](https://arxiv.org/pdf/1706.03762)
 [Vision Transformer](https://arxiv.org/pdf/2010.11929)
+[Detection Transformer](https://github.com/facebookresearch/detr)
+[SegFormer](https://github.com/NVlabs/SegFormer)
 [CLIP](https://arxiv.org/pdf/2103.00020)
 - Segment Anything Models
 [Github](https://github.com/facebookresearch/segment-anything)
@@ -166,7 +168,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### 3D
 > 2025
--
+- Meso-structural characterization of asphalt mixture via RAN-UNet segmentation and 3D reconstruction: Insights into FAM void evolution
+[Paper](https://www.sciencedirect.com/science/article/pii/S0950061825040462)
+
 > 2024
 - LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM | PointNet
 [Paper](https://doi.org/10.1061/JCEMD4.COENG-14358)
