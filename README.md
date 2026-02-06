@@ -17,28 +17,30 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Mendeley Concrete crack dataset 
 [Project](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 
-## Classical model codes
+## Classical model codes and papers
 - YOLO
 [Github](https://github.com/ultralytics/ultralytics)
 - U-Net
 [Paper](https://arxiv.org/pdf/1505.04597)
 [Project](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - Transformer
-[Paper](https://arxiv.org/pdf/1706.03762)
+[Transformer](https://arxiv.org/pdf/1706.03762)
+[Vision Transformer](https://arxiv.org/pdf/2010.11929)
+[CLIP](https://arxiv.org/pdf/2103.00020)
 - Generative Adversarial Nets
 [GAN](https://arxiv.org/pdf/1406.2661)
-[DCGAN](https://arxiv.org/pdf/1511.06434)
 [CGAN](https://arxiv.org/pdf/1411.1784)
-[WGAN](https://arxiv.org/abs/1701.07875)
-[WGAN-GP](https://arxiv.org/pdf/1704.00028)
+[DCGAN](https://arxiv.org/pdf/1511.06434)
+[SRGAN](https://arxiv.org/pdf/1609.04802)
 [LSGAN](https://arxiv.org/pdf/1611.04076)
+[Pix2Pix](https://arxiv.org/pdf/1611.07004)
+[WGAN](https://arxiv.org/abs/1701.07875)
+[CycleGAN](https://arxiv.org/pdf/1703.10593)
 [BEGAN](https://arxiv.org/pdf/1703.10717)
+[WGAN-GP](https://arxiv.org/pdf/1704.00028)
+[ProGAN](https://arxiv.org/pdf/1710.10196)
 [SAGAN](https://arxiv.org/pdf/1805.08318)
 [BigGAN](https://arxiv.org/pdf/1809.11096)
-[ProGAN](https://arxiv.org/pdf/1710.10196)
-[SRGAN](https://arxiv.org/pdf/1609.04802)
-[CycleGAN](https://arxiv.org/pdf/1703.10593)
-[Pix2Pix](https://arxiv.org/pdf/1611.07004)
 [StyleGAN](https://arxiv.org/pdf/1812.04948)
 
 - Diffusion models
