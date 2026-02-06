@@ -27,6 +27,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Transformer](https://arxiv.org/pdf/1706.03762)
 [Vision Transformer](https://arxiv.org/pdf/2010.11929)
 [CLIP](https://arxiv.org/pdf/2103.00020)
+- Segment Anything Models
+[Project](https://github.com/facebookresearch/segment-anything)
 - Generative Adversarial Nets
 [GAN](https://arxiv.org/pdf/1406.2661)
 [CGAN](https://arxiv.org/pdf/1411.1784)
@@ -42,8 +44,7 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [SAGAN](https://arxiv.org/pdf/1805.08318)
 [BigGAN](https://arxiv.org/pdf/1809.11096)
 [StyleGAN](https://arxiv.org/pdf/1812.04948)
-
-- Diffusion models
+- Diffusion Models
 [DDPM](https://arxiv.org/pdf/2006.11239)
 [DDIM](https://arxiv.org/pdf/2010.02502)
 [DiT](https://arxiv.org/pdf/2212.09748)
