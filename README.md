@@ -69,26 +69,53 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2024
 - 
 > 2023
+-
 > 2022
+-
 > 2021
+-
 > 2020
+-
 
 ### U-Net
 > 2025
+-
 > 2024
+- Encoder–decoder with pyramid region attention for pixel-level pavement crack recognition
+[Paper](https://doi.org/10.1111/mice.13128)
+- GGMNet: Pavement-Crack Detection Based on Global Context Awareness and Multi-Scale Fusion
+[Paper](https://doi.org/10.3390/rs16101797)
+
 > 2023
+-
 > 2022
+-
 > 2021
+-
 > 2020
+-
 
 
 ### Transformer
 > 2025
 -
 > 2024
--
+- Automated pixel-level pavement marking detection based on a convolutional transformer
+[Paper](https://doi.org/10.1016/j.engappai.2024.108416)
+- A two-stage framework for pixel-level pavement surface crack detection
+[Paper](https://doi.org/10.1016/j.engappai.2024.108312)
+- Automated Multi-Type Pavement Distress Segmentation and Quantification Using Transformer Networks for Pavement Condition Index Prediction
+[Paper](https://doi.org/10.3390/app14114709)
+- Pavement Crack Detection Based on the Improved Swin-Unet Model
+[Paper](https://doi.org/10.3390/buildings14051442)
+
+
+
+
+
 > 2023
--
+- 
+
 > 2022
 -
 > 2021
@@ -101,7 +128,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 -
 
 > 2024
-- A lightweight detection method of pavement potholes based on binocular stereo vision and deep learning | Mask R-CNN [Paper](https://doi.org/10.1016/j.conbuildmat.2024.136733)
+- A lightweight detection method of pavement potholes based on binocular stereo vision and deep learning | Mask R-CNN
+[Paper](https://doi.org/10.1016/j.conbuildmat.2024.136733)
 - 
 
 > 2023
@@ -114,11 +142,21 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2020
 -
 
+### Diffusion models
+> 2025
+-
+> 2024
+- A controllable generative model for generating pavement crack images in complex scenes
+[Paper](https://doi.org/10.1111/mice.13171)
+
+
+
 ### 3D
 > 2025
 -
 > 2024
-- LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM | PointNet [Paper](https://doi.org/10.1061/JCEMD4.COENG-14358)
+- LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM | PointNet
+[Paper](https://doi.org/10.1061/JCEMD4.COENG-14358)
 
 > 2023
 -
