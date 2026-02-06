@@ -28,7 +28,7 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Vision Transformer](https://arxiv.org/pdf/2010.11929)
 [CLIP](https://arxiv.org/pdf/2103.00020)
 - Segment Anything Models
-[Project](https://github.com/facebookresearch/segment-anything)
+[Github](https://github.com/facebookresearch/segment-anything)
 - Generative Adversarial Nets
 [GAN](https://arxiv.org/pdf/1406.2661)
 [CGAN](https://arxiv.org/pdf/1411.1784)
@@ -58,18 +58,148 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Computer Vision Annotation Tool
 [Project](https://www.cvat.ai/)
 
-## Papers
+## Papers for models
 > Classified according to the model and arranged in chronological order.
 ### YOLO
+> 2025
 - SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction.
 [Project](https://smart-motion.github.io/smart/)
 [arXiv](https://arxiv.org/abs/2405.15677)
 [Github](https://github.com/rainmaker22/SMART?tab=readme-ov-file)
+> 2024
+- 
+> 2023
+> 2022
+> 2021
+> 2020
 
 ### U-Net
+> 2025
+> 2024
+> 2023
+> 2022
+> 2021
+> 2020
 
 
 ### Transformer
+> 2025
+-
+> 2024
+-
+> 2023
+-
+> 2022
+-
+> 2021
+-
+> 2020
+-
+
+### Classical CNN architectures
+> 2025
+-
+
+> 2024
+- A lightweight detection method of pavement potholes based on binocular stereo vision and deep learning | Mask R-CNN [Paper](https://doi.org/10.1016/j.conbuildmat.2024.136733)
+- 
+
+> 2023
+-
+
+> 2022
+-
+> 2021
+-
+> 2020
+-
+
+### 3D
+> 2025
+-
+> 2024
+- LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM | PointNet [Paper](https://doi.org/10.1061/JCEMD4.COENG-14358)
+
+> 2023
+-
+
+> 2022
+-
+
+> 2021
+-
+> 2020
 
 
-### 
+### PINN
+> 2025
+-
+> 2024
+-
+> 2023
+-
+> 2022
+-
+> 2021
+-
+> 2020
+
+### GCN
+> 2025
+-
+> 2024
+-
+> 2023
+-
+> 2022
+-
+> 2021
+-
+> 2020
+-
+
+### Foundation model
+> 2025
+-
+> 2024
+-
+> 2023
+-
+> 2022
+-
+> 2021
+-
+> 2020
+-
+
+## Papers for learning paradigms
+> 2025
+-
+> 2024
+-
+> 2023
+-
+> 2022
+-
+> 2021
+-
+> 2020
+-
+
+## Papers for lightweight design
+> 2025
+-
+> 2024
+-
+> 2023
+-
+> 2022
+-
+> 2021
+-
+> 2020
+-
+
+
+
+
