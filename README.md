@@ -1,2 +1,61 @@
 # Pavement surface distress detection based on deep learning: A systematic review
-A research database including links to papers, codes and open-source datasets analyzed in review paper
+A database including links to open-source datasets, codes, and papers analyzed in the review paper. 
+
+## Open-source datasets
+- RDD
+[Github](https://github.com/sekilab/RoadDamageDetector)
+- CQU-BPDD 
+[Github](https://github.com/DearCaat/Pavement-Distress-Classification)
+- GAPs
+[Project](https://www.tu-ilmenau.de/en/university/departments/department-of-computer-science-and-automation/profile/institutes-and-groups/institute-of-computer-and-systems-engineering/group-for-neuroinformatics-and-cognitive-robotics/data-sets-code/german-asphalt-pavement-distress-dataset-gaps)
+- Crack500
+[Github](https://github.com/fyangneil/pavement-crack-detection)
+- DeepCrack
+[Github](https://github.com/qinnzou/DeepCrack)
+- Crack Forest 
+[Github](https://github.com/cuilimeng/CrackForest-dataset)
+- Mendeley Concrete crack dataset 
+[Project](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
+
+## Classical model codes
+- YOLO
+[Github](https://github.com/ultralytics/ultralytics)
+- U-Net
+[Paper](https://arxiv.org/pdf/1505.04597)
+[Project](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+- Transformer
+[Paper](https://arxiv.org/pdf/1706.03762)
+- Generative Adversarial Nets
+[GAN](https://arxiv.org/pdf/1406.2661)
+[DCGAN](https://arxiv.org/pdf/1511.06434)
+[WGAN](https://arxiv.org/abs/1701.07875)
+[WGAN-GP](https://arxiv.org/pdf/1704.00028)
+[LSGAN](https://arxiv.org/pdf/1611.04076)
+[BEGAN](https://arxiv.org/pdf/1703.10717)
+[CycleGAN]()
+
+- Diffusion models
+
+## Label tools
+- LabelImg
+[Github](https://github.com/HumanSignal/labelImg)
+- LabelMe
+[Github](https://labelme.io/)
+- Computer Vision Annotation Tool
+[Project](https://www.cvat.ai/)
+
+## Papers
+> Classified according to the model and arranged in chronological order.
+### YOLO
+- SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction.
+[Project](https://smart-motion.github.io/smart/)
+[arXiv](https://arxiv.org/abs/2405.15677)
+[Github](https://github.com/rainmaker22/SMART?tab=readme-ov-file)
+
+### U-Net
+
+
+### Transformer
+
+
+### 
