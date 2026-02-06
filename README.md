@@ -184,13 +184,17 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### GCN
 > 2025
--
+- Two-Branch Multiscale Context with Multi-View Spatial–Temporal Graph Convolutional Networks for Pavement Fatigue Cracking Prediction
+[Paper](https://link.springer.com/article/10.1007/s11668-025-02291-8)
+
 > 2024
 -
 > 2023
 -
 > 2022
--
+- GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds
+[Paper](https://ieeexplore.ieee.org/abstract/document/9508901)
+
 > 2021
 -
 > 2020
@@ -198,7 +202,16 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### Foundation model
 > 2025
--
+- PaveSAM–segment anything for pavement distress
+[Paper](https://www.tandfonline.com/doi/full/10.1080/14680629.2024.2374863)
+- CLIP-Guided Cross-Modal Feature Fusion based Few-Shot Learning for Nighttime Pavement Defect Detection
+[Paper](https://www.ieice.org/publications/proceedings/summary.php?iconf=MVA&session_num=O2-2&number=O2-2-2&year=2025)
+- Evaluating Prompt-Guided Vision-Language Models for Crack Segmentation
+[Paper](https://ieeexplore.ieee.org/abstract/document/11244601)
+- 
+
+
+
 > 2024
 -
 > 2023
@@ -211,8 +224,54 @@ A database including links to open-source datasets, codes, and papers analyzed i
 -
 
 ## Papers for learning paradigms
+### Transfer learning
 > 2025
--
+- Semi-supervised crack detection using segment anything model and deep transfer learning
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580524006356)
+
+### Semi-supervised
+> 2025
+
+### Weakly-supervised
+> 2024
+- A weakly-supervised transformer-based hybrid network with multi-attention for pavement crack detection
+[Paper](https://www.sciencedirect.com/science/article/pii/S0950061823038527?via%3Dihub)
+> 2023
+- Weakly Supervised Patch Label Inference Networks for Efficient Pavement Distress Detection and Recognition in the Wild
+[Paper](https://ieeexplore.ieee.org/abstract/document/10050387)
+[Github](https://github.com/DearCaat/wsplin)
+- Weakly supervised pavement crack semantic segmentation based on multi-scale object localization and incremental annotation refinement
+[Paper](https://link.springer.com/article/10.1007/s10489-022-04212-w)
+> 2022
+- Weakly supervised convolutional neural network for pavement crack segmentation
+[Paper](https://academic.oup.com/iti/article/doi/10.1093/iti/liac013/6798398)
+- Investigation of pavement crack detection based on deep learning method using weakly supervised instance segmentation framework
+[Paper](https://www.sciencedirect.com/science/article/pii/S0950061822027726?via%3Dihub)
+> 2020
+- Weakly supervised network based intelligent identification of cracks in asphalt concrete bridge deck
+[Paper](https://www.sciencedirect.com/science/article/pii/S1110016820300910)
+
+
+### Unsupervised/Self-supervised
+> 2025
+- A Generative Approach to Generalize Deep Learning Models for Pavement Distress Segmentation
+[Paper](https://link.springer.com/article/10.1007/s42421-025-00118-4)
+- Unsupervised pavement rutting detection using structured light and area-based deep learning
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580525002754)
+- Efficient crack segmentation with multi-decoder networks and enhanced feature fusion
+[Paper](https://www.sciencedirect.com/science/article/pii/S0952197625006979)[Github](https://github.com/AmmarOkran/CrackMaster)
+- A Pavement Crack Registration and Change Identification Method Based on Unsupervised Deep Neural Network
+[Paper](https://ieeexplore.ieee.org/abstract/document/10766352)
+- Photogrammetry-Driven Detection of Structural Peeling in Joints and Corners of Rigid Pavements Using an Unsupervised Learning Meta-Architecture
+[Paper](https://ieeexplore.ieee.org/abstract/document/10918994/)
+
+
+
+> 2021
+- Memory-augment convolutional Autoencoder for unsupervised pavement crack classification
+[Paper](https://ieeexplore.ieee.org/abstract/document/9727812/)
+
+
 > 2024
 -
 > 2023
