@@ -35,6 +35,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [CycleGAN]()
 
 - Diffusion models
+[]()
+[]()
+[DiT](https://arxiv.org/pdf/2212.09748)
 
 ## Label tools
 - LabelImg
