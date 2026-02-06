@@ -62,10 +62,20 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > Classified according to the model and arranged in chronological order.
 ### YOLO
 > 2025
-- SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction.
-[Project](https://smart-motion.github.io/smart/)
-[arXiv](https://arxiv.org/abs/2405.15677)
-[Github](https://github.com/rainmaker22/SMART?tab=readme-ov-file)
+- Comparison of different deep learning algorithms in pavement crack detection
+[Paper](https://www.tandfonline.com/doi/full/10.1080/14680629.2025.2498107)
+- DMC-YOLOv11: an improved pavement damage detection model based on YOLOv11
+[Paper](https://www.tandfonline.com/doi/full/10.1080/21642583.2025.2579987)
+
+
+
+- Research on pavement crack detection technology based on improved YOLO11
+[Ppaer](https://ieeexplore.ieee.org/abstract/document/11149759)
+- PotholeNet11:A YOLO11-Powered Real-Time Framework for Comprehensive Pothole Detection and Road Safety
+[Paper](https://ieeexplore.ieee.org/abstract/document/11160097)
+- Crack Detection Based on an Enhanced YOLO Method
+[Paper](https://ieeexplore.ieee.org/abstract/document/11160593)
+
 > 2024
 - 
 > 2023
@@ -128,7 +138,7 @@ A database including links to open-source datasets, codes, and papers analyzed i
 -
 
 > 2024
-- A lightweight detection method of pavement potholes based on binocular stereo vision and deep learning | Mask R-CNN
+- A lightweight detection method of pavement potholes based on binocular stereo vision and deep learning
 [Paper](https://doi.org/10.1016/j.conbuildmat.2024.136733)
 - 
 
@@ -136,7 +146,10 @@ A database including links to open-source datasets, codes, and papers analyzed i
 -
 
 > 2022
--
+- An Iteratively Optimized Patch Label Inference Network for Automatic Pavement Distress Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/9447759)
+[Github](https://github.com/DearCaat/ioplin)
+[Dataset](https://dearcaat.github.io/CQU-BPDD/)
 > 2021
 -
 > 2020
@@ -233,6 +246,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2025
 
 ### Weakly-supervised
+> 2025
+- A weakly-supervised deep learning model for end-to-end detection of airfield pavement distress
+[Paper](https://www.sciencedirect.com/science/article/pii/S2046043024000303)
 > 2024
 - A weakly-supervised transformer-based hybrid network with multi-attention for pavement crack detection
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950061823038527?via%3Dihub)
@@ -259,7 +275,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Unsupervised pavement rutting detection using structured light and area-based deep learning
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580525002754)
 - Efficient crack segmentation with multi-decoder networks and enhanced feature fusion
-[Paper](https://www.sciencedirect.com/science/article/pii/S0952197625006979)[Github](https://github.com/AmmarOkran/CrackMaster)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0952197625006979)
+[Github](https://github.com/AmmarOkran/CrackMaster)
 - A Pavement Crack Registration and Change Identification Method Based on Unsupervised Deep Neural Network
 [Paper](https://ieeexplore.ieee.org/abstract/document/10766352)
 - Photogrammetry-Driven Detection of Structural Peeling in Joints and Corners of Rigid Pavements Using an Unsupervised Learning Meta-Architecture
@@ -285,7 +302,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ## Papers for lightweight design
 > 2025
--
+- YOLOv11n-MG: A Road Disease Detection Algorithm Based on Lightweight Feature Extraction and Global Attention Mechanism
+[Paper](https://ebooks.iospress.nl/doi/10.3233/ATDE250776)
 > 2024
 -
 > 2023
