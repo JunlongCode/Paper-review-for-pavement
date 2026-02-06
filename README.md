@@ -28,16 +28,24 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Generative Adversarial Nets
 [GAN](https://arxiv.org/pdf/1406.2661)
 [DCGAN](https://arxiv.org/pdf/1511.06434)
+[CGAN](https://arxiv.org/pdf/1411.1784)
 [WGAN](https://arxiv.org/abs/1701.07875)
 [WGAN-GP](https://arxiv.org/pdf/1704.00028)
 [LSGAN](https://arxiv.org/pdf/1611.04076)
 [BEGAN](https://arxiv.org/pdf/1703.10717)
-[CycleGAN]()
+[SAGAN](https://arxiv.org/pdf/1805.08318)
+[BigGAN](https://arxiv.org/pdf/1809.11096)
+[ProGAN](https://arxiv.org/pdf/1710.10196)
+[SRGAN](https://arxiv.org/pdf/1609.04802)
+[CycleGAN](https://arxiv.org/pdf/1703.10593)
+[Pix2Pix](https://arxiv.org/pdf/1611.07004)
+[StyleGAN](https://arxiv.org/pdf/1812.04948)
 
 - Diffusion models
-[]()
-[]()
+[DDPM](https://arxiv.org/pdf/2006.11239)
+[DDIM](https://arxiv.org/pdf/2010.02502)
 [DiT](https://arxiv.org/pdf/2212.09748)
+[Stable Diffusion](https://arxiv.org/pdf/2112.10752)
 
 ## Label tools
 - LabelImg
