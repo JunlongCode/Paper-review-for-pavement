@@ -78,15 +78,27 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://ieeexplore.ieee.org/abstract/document/11160593)
 
 > 2024
-- 
+- Multi-Object Detection for Daily Road Maintenance Inspection With UAV Based on Improved YOLOv8
+[Paper](https://ieeexplore.ieee.org/abstract/document/10633267)
+- Image Enhancement Method Utilizing YOLO Models to Recognize Road Markings at Night
+[Paper](https://ieeexplore.ieee.org/abstract/document/10630821)
+
+- Adaptive & Fine-Grained Domain Adaptation for Pavement Crack Segmentation using YOLOv8 Learning Framework
+[Paper](https://ieeexplore.ieee.org/abstract/document/10533476)
+
+
 > 2023
 -
 > 2022
--
+- Empirical Study of the Performance of Object Detection Methods on Road Marking Dataset
+[Paper](https://ieeexplore.ieee.org/abstract/document/10013909)
+
 > 2021
 -
 > 2020
--
+- Smart City Lane Detection for Autonomous Vehicle
+[Paper](https://ieeexplore.ieee.org/abstract/document/9251187)
+
 
 ### U-Net
 > 2025
@@ -99,13 +111,19 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://doi.org/10.1111/mice.13128)
 - GGMNet: Pavement-Crack Detection Based on Global Context Awareness and Multi-Scale Fusion
 [Paper](https://doi.org/10.3390/rs16101797)
+- OUR-Net: A Multi-Frequency Network With Octave Max Unpooling and Octave Convolution Residual Block for Pavement Crack Segmentation
+[Paper](https://ieeexplore.ieee.org/abstract/document/10542729)
+
 
 > 2023
 -
 > 2022
--
+- 
+
 > 2021
--
+- Key Points Estimation and Point Instance Segmentation Approach for Lane Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/9460822)
+
 > 2020
 -
 
@@ -182,6 +200,18 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2020
 -
 
+### GAN
+> 2025
+-
+> 2024
+-
+> 2023
+-
+> 2022
+- Data Augmentation by an Additional Self-Supervised CycleGAN-Based for Shadowed Pavement Detection
+[Paper](https://www.mdpi.com/2071-1050/14/21/14304)
+
+
 ### Diffusion models
 > 2025
 -
@@ -223,33 +253,15 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Pavement Cracking Prediction Models Based on Deep Learning Physics-Informed Neural Network
 [Paper](https://journals.sagepub.com/doi/full/10.1177/03611981251372087)
 
-> 2024
--
-> 2023
--
-> 2022
--
-> 2021
--
-> 2020
 
 ### GCN
 > 2025
 - Two-Branch Multiscale Context with Multi-View Spatial–Temporal Graph Convolutional Networks for Pavement Fatigue Cracking Prediction
 [Paper](https://link.springer.com/article/10.1007/s11668-025-02291-8)
-
-> 2024
--
-> 2023
--
 > 2022
 - GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds
 [Paper](https://ieeexplore.ieee.org/abstract/document/9508901)
 
-> 2021
--
-> 2020
--
 
 ### Foundation model
 > 2025
@@ -265,8 +277,6 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://www.tandfonline.com/doi/full/10.1080/10298436.2025.2526158)
 - An Integrated Framework with SAM and OCR for Pavement Crack Quantification and Geospatial Mapping
 [Paper](https://www.mdpi.com/2412-3811/10/12/348)
-
-
 
 > 2024
 -
@@ -284,6 +294,11 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2025
 - Semi-supervised crack detection using segment anything model and deep transfer learning
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580524006356)
+
+> 2022
+- Transfer learning based deep convolutional neural network model for pavement crack detection from images
+[Paper](https://doi.org/10.22075/ijnaa.2021.24521.2762)
+
 
 ### Semi-supervised
 > 2025
@@ -315,6 +330,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2025
 - A Generative Approach to Generalize Deep Learning Models for Pavement Distress Segmentation
 [Paper](https://link.springer.com/article/10.1007/s42421-025-00118-4)
+- CL-PSDD: Contrastive Learning for Adaptive Generalized Pavement Surface Distress Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/10843152)
 - Unsupervised pavement rutting detection using structured light and area-based deep learning
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580525002754)
 - Efficient crack segmentation with multi-decoder networks and enhanced feature fusion
@@ -327,24 +344,34 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - The remote sensing method for large-scale asphalt pavement aging assessment with automated sample generation and deep learning
 [Paper](https://www.nature.com/articles/s41598-025-29966-4)
 
-
-
-
-> 2021
-- Memory-augment convolutional Autoencoder for unsupervised pavement crack classification
-[Paper](https://ieeexplore.ieee.org/abstract/document/9727812/)
-
-
 > 2024
--
+- A Self-Supervised Learning Approach to Road Anomaly Detection Using Masked Autoencoders
+[Paper](https://ascelibrary.org/doi/10.1061/9780784485538.047)
+- An Unsupervised Learning Approach for Pavement Distress Diagnosis via Siamese Networks
+[Paper](https://ieeexplore.ieee.org/abstract/document/10769539)
+
 > 2023
 -
 > 2022
 -
+
 > 2021
--
+- Memory-augment convolutional Autoencoder for unsupervised pavement crack classification
+[Paper](https://ieeexplore.ieee.org/abstract/document/9727812/)
+- Unsupervised Deep Learning for Road Crack Classification by Fusing Convolutional Neural Network and K_Means Clustering
+[Paper](https://ascelibrary.org/doi/10.1061/JPEODX.0000322)
+
+
 > 2020
 -
+
+### Reinforce Learning
+> 2024
+- Pavement Crack Detection Algorithm Based on Reinforcement Learning and Traditional Supervised Learning
+[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13089/130890U/Pavement-crack-detection-algorithm-based-on-reinforcement-learning-and-traditional/10.1117/12.3021180.full)
+> 2021
+- Intelligent preprocessing selection for pavement crack detection based on deep reinforcement learning
+[Paper](https://doi.org/10.18293/SEKE2021-062)
 
 ## Papers for lightweight design
 > 2025
@@ -357,7 +384,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2023
 -
 > 2022
--
+- Efficient pavement distress classification via deep patch soft selective learning and knowledge distillation
+[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12570)
+
 > 2021
 -
 > 2020
