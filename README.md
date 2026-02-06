@@ -68,9 +68,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://www.tandfonline.com/doi/full/10.1080/14680629.2025.2498107)
 - DMC-YOLOv11: an improved pavement damage detection model based on YOLOv11
 [Paper](https://www.tandfonline.com/doi/full/10.1080/21642583.2025.2579987)
-
-
-
+- PD-YOLO: A Multi-Scale Pavement Damage Detection Algorithm Based on Wavelet Transform and Global Attention
+[Paper](https://ieeexplore.ieee.org/abstract/document/11161129)
 - Research on pavement crack detection technology based on improved YOLO11
 [Ppaer](https://ieeexplore.ieee.org/abstract/document/11149759)
 - PotholeNet11:A YOLO11-Powered Real-Time Framework for Comprehensive Pothole Detection and Road Safety
@@ -91,7 +90,10 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### U-Net
 > 2025
--
+- 
+- RepCrack: An efficient pavement crack segmentation method based on structural re-parameterization
+[Paper](https://www.sciencedirect.com/science/article/pii/S095219762401950X)
+
 > 2024
 - Encoder–decoder with pyramid region attention for pixel-level pavement crack recognition
 [Paper](https://doi.org/10.1111/mice.13128)
@@ -110,7 +112,30 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### Transformer
 > 2025
--
+- Multi-Object Pavement Surface Feature Detection with CNN and Transformer Deep Learning Architecture
+[Paper](https://ascelibrary.org/doi/abs/10.1061/9780784486214.032)
+- ISTD-CrackNet: Hybrid CNN-transformer models focusing on fine-grained segmentation of multi-scale pavement cracks
+[Paper](https://www.sciencedirect.com/science/article/pii/S0263224125005743)
+- A transformer-based deep learning method for automatic pixel-level crack detection and feature quantification
+[Paper](https://www.emerald.com/ecam/article/32/4/2455/1244805/A-transformer-based-deep-learning-method-for)
+- RTCNet: A novel real-time triple branch network for pavement crack semantic segmentation
+[Paper](https://www.sciencedirect.com/science/article/pii/S1569843224007052)
+[Dataset](https://github.com/NJSkate/BeijingHighway-dataset)
+- A Hybrid Approach for Pavement Crack Detection Using Mask R-CNN and Vision Transformer Model
+[Paper](https://www.sciencedirect.com/org/science/article/pii/S1546221825000086)
+- Transformer–CNN Hybrid Framework for Pavement Pothole Segmentation
+[Paper](https://www.mdpi.com/1424-8220/25/21/6756)
+- A real-time multiscale pavement crack-detection model
+[Paper](https://link.springer.com/article/10.1007/s11760-025-04836-8)
+- BridgeFusionNet: A hybrid convolutional-transformer architecture for road surface crack
+[Paper](https://www.sciencedirect.com/science/article/pii/S0952197625020937)
+- A Transformer-Based Pavement Crack Segmentation Model with Local Perception and Auxiliary Convolution Layers
+[Paper](https://www.mdpi.com/2079-9292/14/14/2834)
+- Autonomous Road Defects Segmentation Using Transformer-Based Deep Learning Models With Custom Dataset
+[Paper](https://ieeexplore.ieee.org/abstract/document/11192307)
+- Research on pavement crack detection technology based on deep learning
+[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13792/137920H/Research-on-pavement-crack-detection-technology-based-on-deep-learning/10.1117/12.3090536.full)
+
 > 2024
 - Automated pixel-level pavement marking detection based on a convolutional transformer
 [Paper](https://doi.org/10.1016/j.engappai.2024.108416)
@@ -166,14 +191,21 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 
 
-### 3D
+### 3D models
 > 2025
 - Meso-structural characterization of asphalt mixture via RAN-UNet segmentation and 3D reconstruction: Insights into FAM void evolution
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950061825040462)
+- Aggregate-level 3D analysis of asphalt pavement deterioration using laser scanning and vision transformer
+[Paper](https://www.mdpi.com/1424-8220/25/21/6756)
+- On the Applicability of Multimodal Neural Network Methods for Determining the Quality of the Road Surface
+[Paper](https://ieeexplore.ieee.org/abstract/document/11079337)
 
 > 2024
-- LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM | PointNet
+- LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM
 [Paper](https://doi.org/10.1061/JCEMD4.COENG-14358)
+- PAN: Improved PointNet++ for Pavement Crack Information Extraction
+[Paper](https://www.mdpi.com/2079-9292/13/16/3340)
+
 
 > 2023
 -
@@ -188,7 +220,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### PINN
 > 2025
--
+- Pavement Cracking Prediction Models Based on Deep Learning Physics-Informed Neural Network
+[Paper](https://journals.sagepub.com/doi/full/10.1177/03611981251372087)
+
 > 2024
 -
 > 2023
@@ -225,7 +259,12 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://www.ieice.org/publications/proceedings/summary.php?iconf=MVA&session_num=O2-2&number=O2-2-2&year=2025)
 - Evaluating Prompt-Guided Vision-Language Models for Crack Segmentation
 [Paper](https://ieeexplore.ieee.org/abstract/document/11244601)
-- 
+- Enhanced Crack Segmentation Using Meta’s Segment Anything Model with Low-Cost Ground Truths and Multimodal Prompts
+[Paper](https://journals.sagepub.com/doi/full/10.1177/03611981251322484)
+- Fine-tuning large vision model for multimodal fusion in asphalt pavement crack segmentation
+[Paper](https://www.tandfonline.com/doi/full/10.1080/10298436.2025.2526158)
+- An Integrated Framework with SAM and OCR for Pavement Crack Quantification and Geospatial Mapping
+[Paper](https://www.mdpi.com/2412-3811/10/12/348)
 
 
 
@@ -285,6 +324,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://ieeexplore.ieee.org/abstract/document/10766352)
 - Photogrammetry-Driven Detection of Structural Peeling in Joints and Corners of Rigid Pavements Using an Unsupervised Learning Meta-Architecture
 [Paper](https://ieeexplore.ieee.org/abstract/document/10918994/)
+- The remote sensing method for large-scale asphalt pavement aging assessment with automated sample generation and deep learning
+[Paper](https://www.nature.com/articles/s41598-025-29966-4)
+
 
 
 
@@ -309,7 +351,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - YOLOv11n-MG: A Road Disease Detection Algorithm Based on Lightweight Feature Extraction and Global Attention Mechanism
 [Paper](https://ebooks.iospress.nl/doi/10.3233/ATDE250776)
 > 2024
--
+- Deployment strategies for lightweight pavement defect detection using deep learning and inverse perspective mapping
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580524004187)
+
 > 2023
 -
 > 2022
