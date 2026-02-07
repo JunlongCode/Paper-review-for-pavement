@@ -182,7 +182,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://doi.org/10.1007/978-3-030-89817-5_5)
 - Key Points Estimation and Point Instance Segmentation Approach for Lane Detection
 [Paper](https://ieeexplore.ieee.org/abstract/document/9460822)
-
+- Automatic Crack Segmentation in Pavements using a Dilated Encoder-Decoder Network
+[Paper](https://ieeexplore.ieee.org/abstract/document/9476956?casa_token=zj02LbgnxR4AAAAA:s4tz4lYcjLUjSy_v1eiQBekNdYNZ7b5vFlEd4-XCZTeVUXLDlDPQTq-A_tsPBlv9SR-yyytsozY)
 
 > 2020
 -
@@ -271,7 +272,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - An Automated Instance Segmentation Method for Crack Detection Integrated with CrackMover Data Augmentation
 [Paper](https://doi.org/10.3390/s24020446)
 > 2023
-
+- Learning Light Fields for Improved Lane Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/9999224)
 
 > 2022
 - An Iteratively Optimized Patch Label Inference Network for Automatic Pavement Distress Detection
@@ -285,7 +287,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Deep Metric Learning-Based for Multi-Target Few-Shot Pavement Distress Classification
 [Paper](https://ieeexplore.ieee.org/abstract/document/9459530?casa_token=ad6-6X-zSaoAAAAA:SJVx1FRXRB2cxx6txgHJsPcS74oxNhmVx7ePObAsG-7-EeZdifNlZY564KjrmytPIinBj2BphDU)
 > 2021
--
+- Multi-stage Deep Learning Technique with a Cascaded Classifier for Turn Lanes Recognition
+[Paper](https://ieeexplore.ieee.org/abstract/document/9659973)
 > 2020
 -
 
@@ -297,27 +300,67 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://dl.acm.org/doi/full/10.1145/3701100.3701125)
 - Conditional Pavement Crack Data Generation for Selective Data Augmentation Using GANs
 [Paper](https://ieeexplore.ieee.org/abstract/document/11144507?casa_token=w5Mx4Cg7ZDgAAAAA:9mL6jxODPMAl8eArcDQn3gOla-MvhgAotUqGdScBmS0fmzOsJ2nFCUJcDfC4t0M4VWtO0wjvXo8)
+- Data generation for asphalt pavement evaluation: Deep learning-based insights from generative models
+[Paper](https://www.sciencedirect.com/science/article/pii/S2214509525009143)
+- High quality training set development for road crack detection using progressive data-driven models with integrated identification
+[Paper](https://www.sciencedirect.com/science/article/pii/S2214509525012148)
+- Enhancing structural health monitoring: Conditional GAN-based crack detection in concrete and asphalt surfaces
+[Paper](https://journals.sagepub.com/doi/full/10.1177/13694332251381215?casa_token=iGxe894Bi1gAAAAA%3ALV4cUdmN2LvrR7c1YufSsE5bZBgLWUjyMMZ2-3oKcjo_U3NFU7ShFda8KdCCN6-7R-53Eo-9pEX634Q)
+- Generative adversarial network for real-time identification and pixel-level annotation of highway pavement distresses
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580525001621?casa_token=ldgqOxCb_pUAAAAA:ZrNZwlVGZoZ3dNf_hTa_l6X589MOYI6NKawJ-opdsmTh5gg6Mks-xi8PNkTQxKHCZ8WpXmsEf7JH)
 
 > 2024
 - A three-stage pavement image crack detection framework with positive sample augmentation
 [Paper](https://doi.org/10.1016/j.engappai.2023.107624)
 - Bridging Data Distribution Gaps: Test-Time Adaptation for Enhancing Cross-Scenario Pavement Distress Detection
 [Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A16%3A24966864/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A181961449&crl=c&link_origin=scholar.google.com)
-
+- Leveraging a deep learning generative model to enhance recognition of minor asphalt defects
+[Paper](https://www.nature.com/articles/s41598-024-80199-3)
+- Classification of pothole pavement based on pseudo-sample generation augmentation
+[Paper](https://ieeexplore.ieee.org/abstract/document/10845491)
+- CrackCLF: Automatic Pavement Crack Detection Based on Closed-Loop Feedback
+[Paper](https://ieeexplore.ieee.org/abstract/document/10328544?casa_token=n7GixT7X1BoAAAAA:P1Ocl6NNnJNgJVqMZQkWZvf3zoFo1v0o5mTqsBmQUORuy5HT-Exc2xm4GW06VXWQ6UdbtHjMZ7o)
+- A pavement crack synthesis method based on conditional generative adversarial networks
+[Paper](https://doi.org/10.3934/mbe.2024038)
+- Research on pavement crack detection algorithm based on Adversarial and Depth-guided Network
+[Paper](https://doi.org/10.1117/12.3021078)
 
 > 2023
--
+- Integrated APC-GAN and AttuNet Framework for Automated Pavement Crack Pixel-Level Segmentation: A New Solution to Small Training Datasets
+[Paper](https://ieeexplore.ieee.org/abstract/document/10021216?casa_token=qWIzY4gMcE8AAAAA:q7EwdRDcaGbUGdMdyapkShvj02khaorwPpFKMjSQ9niZzbDvBD40-ii7g4n-iBiHOt6M983msMY)
+- Pavement Image Enhancement in Pixel-Wise Based on Multi-Level Semantic Information
+[Paper](https://ieeexplore.ieee.org/abstract/document/10220435?casa_token=7MHMRoPhyggAAAAA:ZiMss2ecBKtGpXajA-uZPu-qxpOG0W9eOV1NhfbULkzGW90csGI-62bsSsPpLLUFia78NbjAZ30)
+- A deeper generative adversarial network for grooved cement concrete pavement crack detection
+[Paper](https://doi.org/10.1016/j.engappai.2022.105808)
+- Enhancing Pavement Distress Detection Using a Morphological Constraints-Based Data Augmentation Method
+[Paper](https://doi.org/10.3390/coatings13040764)
+
 > 2022
 - Data Augmentation by an Additional Self-Supervised CycleGAN-Based for Shadowed Pavement Detection
 [Paper](https://www.mdpi.com/2071-1050/14/21/14304)
 - Pavement crack detection algorithm based on generative adversarial network and convolutional neural network under small samples
 [Paper](https://doi.org/10.1016/j.measurement.2022.111219)
+- Lane Detection based on Object Detection and Image-to-image Translation
+[Paper](https://ieeexplore.ieee.org/abstract/document/9412400?casa_token=a8V-rE0EU-oAAAAA:-3hO5v7wv5aJY3Jaj2z1lIJwQip6bs71YAlTdkcz4TlbtbNikyVCQrqWTV9_4cDIpHIQktP8OH4)
+- LanePainter: Lane Marks Enhancement via Generative Adversarial Network
+[Paper](https://ieeexplore.ieee.org/abstract/document/9956446?casa_token=C2uVH-eOMJYAAAAA:awf9PYoawEhPMcDmkDWdvMk1rsMD1GKE6IzL-4jPihT0OhQwWj8GWPZXn1pBAXDg-K8lFz_38LM)
+- Automatic Detection and Counting System for Pavement Cracks Based on PCGAN and YOLO-MF
+[Paper](https://ieeexplore.ieee.org/abstract/document/9745793?casa_token=gcfiplorQGAAAAAA:RYLY2v43kATuKGafbWFhn18Bg5I5BaXupivc2YG6JJu6Xh28QtHZQ9j2zjg_Sg5CUO-kbjAiCIw)
+- Super-Resolution Reconstruction Method of Pavement Crack Images Based on an Improved Generative Adversarial Network
+[Paper](https://doi.org/10.3390/s22239092)
+> 2021
+- Virtual generation of pavement crack images based on improved deep convolutional generative adversarial network
+[Paper](https://doi.org/10.1016/j.engappai.2021.104376)
 
 > 2020
+- CrackGAN: Pavement Crack Detection Using Partially Accurate Ground Truths Based on Generative Adversarial Learning
+[Paper](https://ieeexplore.ieee.org/abstract/document/9089245?casa_token=8IAQWpEf6cwAAAAA:nDhA3FD09s-tjaIS8axC5A6d3wx0v1n3VLXL-CSP0Jv3XrFz1-zveur_NJQpbmkCAQyXezkqIRU)
 - A cost effective solution for pavement crack inspection using cameras and deep neural networks
 [Paper](https://doi.org/10.1016/j.conbuildmat.2020.119397)
 - Pavement crack detection and recognition using the architecture of segNet
 [Paper](https://doi.org/10.1016/j.jii.2020.100144)
+- Guided Dual Network Based Transfer with an Embedded Loss for Lane Detection in Nighttime Scene
+[Paper](https://ieeexplore.ieee.org/abstract/document/9345241?casa_token=czaCl-6sIKcAAAAA:l-XgxAsxoEz36s_-cI59etp03Thr9wNScUiHkiyhxTGK9rcyKYCkYpWTaaUmXtg58RWiAuqx7O4)
 
 ### Diffusion models
 > 2025
@@ -329,6 +372,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://doi.org/10.1016/j.autcon.2024.105332)
 - Improving detection of asphalt distresses with deep learning-based diffusion model for intelligent road maintenance
 [Paper](https://doi.org/10.1016/j.dibe.2023.100315)
+- Enhancing pavement crack segmentation via semantic diffusion synthesis model for strategic road assessment
+[Paper](https://www.sciencedirect.com/science/article/pii/S2590123024010004)
 
 
 
@@ -355,7 +400,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 
 > 2023
--
+- Pavement Crack Detection Based on 3D Edge Representation and Data Communication With Digital Twins
+[Paper](https://ieeexplore.ieee.org/abstract/document/9852817?casa_token=z5Au8Y8KJ08AAAAA:mXlOwSYVGWVpzH_2IKMbeD0jl55i0F0EkZrKpZozmI3yyqCBcWPN-t8_AIkEeTDv7yG2arzMw7Q)
 
 > 2022
 -
