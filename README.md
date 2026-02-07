@@ -308,7 +308,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://journals.sagepub.com/doi/full/10.1177/13694332251381215?casa_token=iGxe894Bi1gAAAAA%3ALV4cUdmN2LvrR7c1YufSsE5bZBgLWUjyMMZ2-3oKcjo_U3NFU7ShFda8KdCCN6-7R-53Eo-9pEX634Q)
 - Generative adversarial network for real-time identification and pixel-level annotation of highway pavement distresses
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580525001621?casa_token=ldgqOxCb_pUAAAAA:ZrNZwlVGZoZ3dNf_hTa_l6X589MOYI6NKawJ-opdsmTh5gg6Mks-xi8PNkTQxKHCZ8WpXmsEf7JH)
-
+- A Shadow-Robust Pavement Damage Detection Framework Based on RACycle-GAN and DDE-YOLOv8
+[Paper](https://ieeexplore.ieee.org/abstract/document/10965794?casa_token=MYgrJESZupsAAAAA:HR1RkZWVqv5WRniDDroxXykfNdFUlhuD9iF8xU7rzltWVu7xcp575Xb1q1ZBDqY51IFbn7Oegk4)
 > 2024
 - A three-stage pavement image crack detection framework with positive sample augmentation
 [Paper](https://doi.org/10.1016/j.engappai.2023.107624)
@@ -324,7 +325,6 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://doi.org/10.3934/mbe.2024038)
 - Research on pavement crack detection algorithm based on Adversarial and Depth-guided Network
 [Paper](https://doi.org/10.1117/12.3021078)
-
 > 2023
 - Integrated APC-GAN and AttuNet Framework for Automated Pavement Crack Pixel-Level Segmentation: A New Solution to Small Training Datasets
 [Paper](https://ieeexplore.ieee.org/abstract/document/10021216?casa_token=qWIzY4gMcE8AAAAA:q7EwdRDcaGbUGdMdyapkShvj02khaorwPpFKMjSQ9niZzbDvBD40-ii7g4n-iBiHOt6M983msMY)
@@ -334,7 +334,6 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://doi.org/10.1016/j.engappai.2022.105808)
 - Enhancing Pavement Distress Detection Using a Morphological Constraints-Based Data Augmentation Method
 [Paper](https://doi.org/10.3390/coatings13040764)
-
 > 2022
 - Data Augmentation by an Additional Self-Supervised CycleGAN-Based for Shadowed Pavement Detection
 [Paper](https://www.mdpi.com/2071-1050/14/21/14304)
@@ -351,7 +350,6 @@ A database including links to open-source datasets, codes, and papers analyzed i
 > 2021
 - Virtual generation of pavement crack images based on improved deep convolutional generative adversarial network
 [Paper](https://doi.org/10.1016/j.engappai.2021.104376)
-
 > 2020
 - CrackGAN: Pavement Crack Detection Using Partially Accurate Ground Truths Based on Generative Adversarial Learning
 [Paper](https://ieeexplore.ieee.org/abstract/document/9089245?casa_token=8IAQWpEf6cwAAAAA:nDhA3FD09s-tjaIS8axC5A6d3wx0v1n3VLXL-CSP0Jv3XrFz1-zveur_NJQpbmkCAQyXezkqIRU)
@@ -363,8 +361,6 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://ieeexplore.ieee.org/abstract/document/9345241?casa_token=czaCl-6sIKcAAAAA:l-XgxAsxoEz36s_-cI59etp03Thr9wNScUiHkiyhxTGK9rcyKYCkYpWTaaUmXtg58RWiAuqx7O4)
 
 ### Diffusion models
-> 2025
--
 > 2024
 - A controllable generative model for generating pavement crack images in complex scenes
 [Paper](https://doi.org/10.1111/mice.13171)
@@ -374,8 +370,6 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://doi.org/10.1016/j.dibe.2023.100315)
 - Enhancing pavement crack segmentation via semantic diffusion synthesis model for strategic road assessment
 [Paper](https://www.sciencedirect.com/science/article/pii/S2590123024010004)
-
-
 
 ### 3D models
 > 2025
@@ -389,7 +383,6 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://ieeexplore.ieee.org/abstract/document/11079337)
 - Comparative Analysis of Upsampling Algorithms for Pavement Point Clouds: Toward 3D Pavement Distress Inspection
 [Paper](https://ascelibrary.org/doi/abs/10.1061/JPEODX.PVENG-1830?casa_token=gDort96YlAsAAAAA:JjKCthdyW5VjNylLAKhCn7L84lcP2Oxd0rNs7NbgHUgJJSj7XLrkeSztNH3tIBr0y9GmK3SQ5V7-)
-
 > 2024
 - LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM
 [Paper](https://doi.org/10.1061/JCEMD4.COENG-14358)
@@ -397,19 +390,9 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://www.mdpi.com/2079-9292/13/16/3340)
 - Pavement Point Cloud Upsampling Based on Transformer: Toward Enhancing 3D Pavement Data
 [Paper](https://ieeexplore.ieee.org/abstract/document/10682468?casa_token=QfXCI5DahRsAAAAA:7IRRhJpQ20DU6ngatE8efjGZVZgLL1fiUnjnXJiJ-Z3AF7CAqqhhXux0YTK8Z1aVNYwYrpHW1n0)
-
-
 > 2023
 - Pavement Crack Detection Based on 3D Edge Representation and Data Communication With Digital Twins
 [Paper](https://ieeexplore.ieee.org/abstract/document/9852817?casa_token=z5Au8Y8KJ08AAAAA:mXlOwSYVGWVpzH_2IKMbeD0jl55i0F0EkZrKpZozmI3yyqCBcWPN-t8_AIkEeTDv7yG2arzMw7Q)
-
-> 2022
--
-
-> 2021
--
-> 2020
-
 
 ### PINN
 > 2025
