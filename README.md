@@ -827,7 +827,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Context-CrackNet: A context-aware framework for precise segmentation of tiny cracks in pavement images
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950061825017337?casa_token=wzHV9iXDzf4AAAAA:rS040aNmrlB45wha3Td8lGwp3vttpBScONAqEo4gOQAYs6p_FMQgXNwQPJZHWynf1Rj4iNZ_BrRy)
 - DEPP: Automated detection of pavement patching and nonslip coatings
-[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4935520)[Github](https://github.com/sondong88/pavement-patch-and-nonslip-detection.git)
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4935520)
+[Github](https://github.com/sondong88/pavement-patch-and-nonslip-detection.git)
 - Pavement pothole detection system based on deep learning and binocular vision
 [Paper](https://www.sciencedirect.com/science/article/pii/S2095756425001126)
 - Opposition-Based White Shark Optimizer for Optimizing Modified EfficientNetV2 in Road Crack Classification
