@@ -79,6 +79,16 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://ieeexplore.ieee.org/abstract/document/11160593)
 - An Enhanced YOLOv11-Based Approach for Pavement Distress Detection via Multi-Scal Feature Fusion and Adaptive Learning
 [Paper](https://ieeexplore.ieee.org/abstract/document/11137827?casa_token=VnYyw0BXbuwAAAAA:tdm8L-VIrPxqbexriw3uFwN_8zAoiJYg9Bhd1nmG7wj0DBm7xrccaWDsBPvOArR_UarUtQMOurk)
+- Imaging-Based Instance Segmentation of Pavement Cracks Using an Improved YOLOv8 Network
+[Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/stc/1660649)
+- YOLO-RAPD: Enhanced YOLOv8s-Based Automated Detection of Road Assets and Pavement Distress
+[Paper](https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6419?casa_token=9bdtShRsRZsAAAAA:Vk38O7l7YpNQq3EiIBGpSacSqk63cbDmVLJUyLtVkYPCNIqNQqLRsFQTbbQBCNfmS0OiMmPSX9z5)
+- Design and Implementation of Regional Identification Algorithm for Highway Pavement Diseases Based on UAV Vision and CNN
+[Paper](https://ieeexplore.ieee.org/abstract/document/11173545?casa_token=yFdMj9ZU7eUAAAAA:DqWc4GBDFJYaJKtnMKA0TcD89cwvDNfHoTxCeVTtJcdLNMSENSnPEr8OANlPsxuPLSFqB_I9gM4)
+- Segmentation and Feature Extraction of Intersecting Cracks in Asphalt Pavement Via Deep Learning and Image Processing
+[Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/stc/8687953)
+- A Simplified Gaussian Approach for Asphalt Crack Detection based on Deep Learning and RGBimages
+[Paper](https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/345/2025/)
 
 > 2024
 - Multi-Object Detection for Daily Road Maintenance Inspection With UAV Based on Improved YOLOv8
@@ -134,7 +144,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### U-Net
 > 2025
-- 
+- A deeply supervised attention network for pavement crack segmentation from unmanned aerial vehicle images
+[Paper](https://iopscience.iop.org/article/10.1088/1361-6501/adf2cf/meta?casa_token=_1VAW1JGD5oAAAAA:r7dGL3Ck7o_H1Q01McSq3X78tVPbLlkKbTPkMGA42CM06TxhAGp1yM6Y7VVPD21kCZeyEAjMafwPfOnZ9gKlkKQ6q6Av1w)
 - RepCrack: An efficient pavement crack segmentation method based on structural re-parameterization
 [Paper](https://www.sciencedirect.com/science/article/pii/S095219762401950X)
 - CrackMDM: Masked Modeling on DCT Domain for Efficient Pavement Crack Segmentation
@@ -145,6 +156,10 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://ieeexplore.ieee.org/abstract/document/10934684?casa_token=djjwe_k-3SsAAAAA:MzsWD8I_TmzJlstUwfEwJ1JxxIiNcaWazZlk0AormDz7T6jyrW2c72XBwVRQiQsQN6I5t9BMmIg)
 - AsphaltCrackNet: A Novel Architecture for Classifying Cracks in Asphalt Pavement
 [Paper](https://ieeexplore.ieee.org/abstract/document/11199027)
+- DAEENet: A novel Dual Attention based Edge Enhanced network for asphalt pavement deterioration detection and segmentation
+[Paper](https://www.sciencedirect.com/science/article/pii/S2214509525012343)
+- A novel enhanced pavement crack semantic segmentation method based on STEH-UNet model
+[Paper](https://www.sciencedirect.com/science/article/pii/S0273117725013031?casa_token=P-hwP8w9iqUAAAAA:e6eQRSphrZ-pDMeC-i-kqaxtmt6DfKPmu5AuosDbAAacXF38VyKOl8FK_I9SlA6hU_garU8ZXfiO)
 
 > 2024
 - Encoder–decoder with pyramid region attention for pixel-level pavement crack recognition
@@ -194,6 +209,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - RTCNet: A novel real-time triple branch network for pavement crack semantic segmentation
 [Paper](https://www.sciencedirect.com/science/article/pii/S1569843224007052)
 [Dataset](https://github.com/NJSkate/BeijingHighway-dataset)
+- Robust ELM-PID tracing control on autonomous mobile robot via transformer-based pavement crack segmentation
+[Paper](https://www.sciencedirect.com/science/article/pii/S0263224124019304?casa_token=llEcEcvI2UgAAAAA:r-4HxSCO4DO9VRUBiRF1lVSr5URhB9r-lpQ7VOEcR2edZaT_URpG3b5R2GWdHM1jVyQCAnPEOJBR)
 - Multi-Object Pavement Surface Feature Detection with CNN and Transformer Deep Learning Architecture
 [Paper](https://ascelibrary.org/doi/abs/10.1061/9780784486214.032)
 - ISTD-CrackNet: Hybrid CNN-transformer models focusing on fine-grained segmentation of multi-scale pavement cracks
@@ -204,6 +221,8 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://www.sciencedirect.com/org/science/article/pii/S1546221825000086)
 - Transformer–CNN Hybrid Framework for Pavement Pothole Segmentation
 [Paper](https://www.mdpi.com/1424-8220/25/21/6756)
+- Predicting rutting in asphalt pavement of RIOH track using multiple machine learning approaches
+[Paper](https://www.tandfonline.com/doi/abs/10.1080/14680629.2025.2517616?casa_token=zFTa9bDkYIoAAAAA:hj1eF1D-Mfp9sDqsE3re9JbJLSCZaFYoA8Q9kUpp5zjvYeGjagFsrP8JG2kOFE6oQf8bl8cNaO4MsWk)
 - A real-time multiscale pavement crack-detection model
 [Paper](https://link.springer.com/article/10.1007/s11760-025-04836-8)
 - BridgeFusionNet: A hybrid convolutional-transformer architecture for road surface crack
@@ -256,13 +275,91 @@ A database including links to open-source datasets, codes, and papers analyzed i
 
 ### Classical or novel CNN architectures
 > 2025
+- Multi-layers deep learning model with feature selection for automated detection and classification of highway pavement cracks
+[Paper](https://www.emerald.com/sasbe/article-abstract/14/2/511/1240882/Multi-layers-deep-learning-model-with-feature?redirectedFrom=fulltext)
 - AI-based pothole detection: a comparative analysis using thermal and photographic imaging
 [Paper](https://www.tandfonline.com/doi/abs/10.1080/10298436.2025.2559863?casa_token=RC4PEshOKjkAAAAA:D6IXbE9NQXcvYag_PZzvLtxygSjKt5iP4DAevi-VXIj4bJsil-hBMORuV2evHqPyD-b4nLnl9X_Gnws)
 - Enhancing Anomaly Detection in Cycling Paths Using a Hybrid LSTM-VQ-VAE Deep Learning Model
 [Paper](https://dl.acm.org/doi/full/10.1145/3719384.3719464)
+- Dilated convolution and edge fusion network for crack edge detection
+[Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ae06c1/meta?casa_token=L26soEy_a-gAAAAA:n7Mklmk7zG7p6PMudoovxWSUapVGfGZsbaJAGxFEZeNb1-LGS187m8FEZaibFN0EwtHuCnkfjRGWCE1ZSqIqHDcwvJ6kBw)
+- Hybrid Deep Learning Framework for Road Surface Classification: Integrating Autoencoder-Based Denoising and CNN-Based Classification
+[Paper](https://ieeexplore.ieee.org/abstract/document/10957290)
+- Identification of asphalt pavement transverse cracking using vehicle vibration based on multi-sensor fusion and convolutional neural network
+[Paper](https://www.tandfonline.com/doi/abs/10.1080/10298436.2025.2548322?casa_token=Xn4QADYOpykAAAAA:LuwLannAlosbmB9-sPVTmZs-MD4G3pbRlu8314oWywA8nZ7-ioht9ycKIm9RimYZiK1tyoRQhTFQJ2c)
+- Case Studies of AI and LiDAR Integration for Pothole Detection and Road Condition Monitoring in Seoul, South Korea
+[Paper](https://ieeexplore.ieee.org/abstract/document/11169768?casa_token=uBVTf4kFf2UAAAAA:QiOu37Oeft0nmZftPh16gNF7ga3NR-rXVcHpwXqKC8UdNivWZdb7x0j1OfQM6dVaOIdoCCjtHfA)
+- A DL-FL Hybrid Model for Auto-Classification of Pavement Damage and Severity Prediction
+[Paper](https://ieeexplore.ieee.org/abstract/document/11171917?casa_token=foIMnZJagxUAAAAA:f0V1cxy9jiwejyPDYEh5PN188_fBb-PdPaNj39CVD_0WCkWCq5QV3aLCUBL8Hku7FRI7DoUaIRg)
+- A Mask R-CNN Algorithm for Automated Segmentation of Asphalt Road Cracks
+[Paper](https://www.sciencedirect.com/science/article/pii/S187705092502602X)
+- CDIF-Net: cross-dimensional interactive fusion network with dual-branch attention for pavement crack segmentation
+[Paper](https://iopscience.iop.org/article/10.1088/1361-6501/adfb9e/meta?casa_token=TvrhJE2pmi0AAAAA:aAj0MSUMZc-cEOnLmtuELhm_CFKWGh2_5c2FU_B9wrCmP4szVzHB5XbaGFlFzzZ0myqyQqYIAcHib0gsiIlUPEBuDVqbyQ)
+- Deep Learning Model Ensemble Applied to Modulus Back-Calculation of Old Cement Concrete Rubblized Overlay Asphalt Pavement
+[Paper](https://www.mdpi.com/2076-3417/15/20/11115)
+- HiResCrackNet: high-resolution pavement crack segmentation with hierarchical feature adjustment and multi-scale perception
+[Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ae09cd/meta?casa_token=naES3oRsb_wAAAAA:DxSwTa2sjxH9qRJz7o9EBTOdy-0Pjm3FWmBUkkR_7bsICoC-sVfAPGnHAQ8bFFUbBA2SObUo376S2eDpoC_dYoqvK5K3Xg)
+- Integrating Machine Learning, Remote Sensing, and a Geographic Information System to Determine Road Surface Type and Construction Year from High-Resolution and Multispectral Aerial Imagery: A Case Study in Ames, Iowa
+[Paper](https://journals.sagepub.com/doi/full/10.1177/03611981251352515?casa_token=7fQ2ce1dNvMAAAAA%3AYUJpQ9_P3zz7IFBx58IWygD2QcoVDzCYgRr6hIpUuszit_wb-RgL8f8rJnQZZjY3mJZyf4IZgfdzlD0)
+- PY-CrackDB: A pavement crack dataset from paraguayan roads for context-aware computer vision models
+[Paper](https://www.sciencedirect.com/science/article/pii/S2352340925007826)
+- An Integrated Machine Learning-Based Framework for Road Roughness Severity Classification and Predictive Maintenance Planning in Urban Transportation System
+[Paper](https://www.mdpi.com/2076-3417/15/24/12916)
+- A dual-image fusion instance segmentation model for pavement patch detection
+[Paper](https://www.tandfonline.com/doi/full/10.1080/10298436.2025.2472857)
+- Pixel-Level Intelligent Recognition of Asphalt Pavement Cracks with an Improved ShuttleNet
+[Paper](https://link.springer.com/article/10.1007/s42947-025-00573-w)
+- Image-Enhanced Asphalt Crack Detection Research
+[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0129156425404218)
+- An Improved Deep Learning Framework Based on Multi-Scale Convolutional Architecture for Road Crack Detection
+[Paper](https://link.springer.com/chapter/10.1007/978-981-97-8336-6_9)
+- Pavement Distress Detection Based on the Staged Deep Learning Classifier Approach
+[Paper](https://journals.sagepub.com/doi/full/10.1177/03611981241265689?casa_token=OVLdC9WwQaUAAAAA%3AqLc1iZwxVDDJ6AdnbDgxgf1cD61fVgGxP21Dkb11DiOsJ5siyYJJeg-tXLArN2mcoT1HvmeJzrkekaA)
+- Optimizing CNN for pavement distress detection via edge-enhanced multi-scale feature fusion
+[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319299)
+- Evaluating computer vision approaches for counting exposed aggregate number on pavement surface
+[Paper](https://www.sciencedirect.com/science/article/pii/S122679882405222X)
+- Topology-informed deep learning for pavement crack detection: Preserving consistent crack structure and connectivity
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580525001608?casa_token=Lx9C5bO5ge0AAAAA:b8n82r3Zhb7p_5EBvk9ji6qODEKEDKBcRt6SLs_y54jjslSyMAOxznq3Mf2dtXd80SzWlW6fUUHS)
+- Pixel-level pavement crack segmentation using UAV remote sensing images based on the ConvNeXt-UPerNet
+[Paper](https://www.sciencedirect.com/science/article/pii/S1110016825003801)
+- Pixel-Level Detection of Cracks Based on Loop Semantic Diffusion Integration
+[Paper](https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6147?casa_token=l7y_lDzKs-4AAAAA:7bW5_WzUug_jsjqYteHN55R_EbJIOsKYugnkVhG55EXQxUTFL8HGBe3ny7iQRGXwfhs9j6N6KbAO&casa_token=sL9zXpNi7EwAAAAA:QsuG4GBudOGkI3gXcg71efUJiUN7LT3ERQJ1yV6weZUVxbbBWKbp6YcCYFWB2ugLDqnCcl2DUndX)
+- Deep Metric Learning-Based Classification for Pavement Distress Images
+[Paper](https://www.mdpi.com/1424-8220/25/13/4087)
+- Adaptive learning network for detecting pavement distresses in complex environments
+[Paper](https://www.sciencedirect.com/science/article/pii/S0952197625007845?casa_token=PB7mMaPeRnYAAAAA:xqCefaPoTEldAo4UIuxBI45Ra-z_pkJ1xLutWCUuEZs9l4Jo_PWLkvfJVnky-ktTdVFhLPuWdVOX)
+- Context-CrackNet: A context-aware framework for precise segmentation of tiny cracks in pavement images
+[Paper](https://www.sciencedirect.com/science/article/pii/S0950061825017337?casa_token=wzHV9iXDzf4AAAAA:rS040aNmrlB45wha3Td8lGwp3vttpBScONAqEo4gOQAYs6p_FMQgXNwQPJZHWynf1Rj4iNZ_BrRy)
+- DEPP: Automated detection of pavement patching and nonslip coatings
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4935520)[Github](https://github.com/sondong88/pavement-patch-and-nonslip-detection.git)
+- Pavement pothole detection system based on deep learning and binocular vision
+[Paper](https://www.sciencedirect.com/science/article/pii/S2095756425001126)
+- Opposition-Based White Shark Optimizer for Optimizing Modified EfficientNetV2 in Road Crack Classification
+[Paper](https://ieeexplore.ieee.org/abstract/document/10999102)
+- A Two-stage Faster R-CNN Approach for Road Surface Damage Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/11126542)
+- Global Context-Aware Framework for Accurate Lane Detection and Appearance Classification
+[Paper](https://ieeexplore.ieee.org/abstract/document/10963013?casa_token=rtGcxyiSzDoAAAAA:18pgTWch0noCYp7XcHcIUVMPFNbgptY5Xz9H-k7mV2nC0nXLR6_7vnqYZCIjAJQanpdrnT0ioE4)
+- Modeling Multi-Granularity Context Information Flow for Pavement Crack Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/11034652?casa_token=BQOQVkEIrnIAAAAA:EVTUD0dsLtV3pgcwo9MKDLuI4QDrD_eB8jkHHeEW450gqcZ4tvbPVEbJ9IJq_BS-sYFDtc62mHk)
+- Boundary-Aware Axial Attention Network for High-Quality Pavement Crack Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/10765917?casa_token=dw08rsu-y_wAAAAA:lQXMwxoyvccqkAiOO7Ntwiqb8Aq4ZixzlgZaQ2QUxQLQ1RNAZ-Uk0aSkxutrEH3pcWfsamctAqI)
+- Pavement crack segmentation with deep orthogonal-enhanced generative model
+[Paper](https://www.sciencedirect.com/science/article/pii/S1569843225006351)
+- Development of AI-Driven Lane Detection and Traffic Sign Recognition with DeepLabV3+ and ResNet101
+[Paper](https://ieeexplore.ieee.org/abstract/document/11061584?casa_token=C_SmR-ufBGMAAAAA:rQc-OT7KO5lMzzY2gTPrnSkzEEl-yM98Llq__y-ROLDd_gWlBbPK3If5ikFVXcaizSI8rStFEpA)
+- A Fused Multiscale Pictorial Sequence Learning Mechanism Applied to Pavement Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/10824775)
+
 > 2024
+- A Bio-Inspired Network With Automatic Brightness Adaptation for Pavement Crack Detection in Different Environments
+[Paper](https://ieeexplore.ieee.org/abstract/document/10704761?casa_token=mZ-NUmDp6h0AAAAA:pWJDBgYUnJpdEGR8sbHlktnYJtOupzHVh_Wh8An2eEpwHMPUe6gc_kkV_Wk03lLJyW4FsuCduj8)
+[Github](https://github.com/zwuser1227/PCDNet)
 - Pixel-level detection of multiple pavement distresses and surface design features with ShuttleNetV2
 [Paper](https://doi.org/10.1177/14759217231183656)
+- A method of hybrid dilated and global convolution networks for pavement crack detection
+[Paper](https://link.springer.com/article/10.1007/s00530-024-01408-7)
 - Research on pothole road recognition based on CAMB attention mechanism and Mish function improved convolutional neural network MobileNetV3
 [Paper](https://doi.org/10.1145/3673277.3673359)
 - Advancement in Pavement Condition Assessment: an AI-Based Computer Vision Approach
@@ -271,9 +368,80 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580524002188?casa_token=WievfcMJtCgAAAAA:Abpu45vucm0ShW7JZqnS-erbcDrH8yRgED6RFQve7ioEzOw3xiNPNjNBWBh1F2mLYXHMNEf0vNTu)
 - An Automated Instance Segmentation Method for Crack Detection Integrated with CrackMover Data Augmentation
 [Paper](https://doi.org/10.3390/s24020446)
+- Spliced Multimodal Residual18 Neural Network: A Breakthrough in Pavement Crack Recognition and Categorization
+[Paper](https://ieeexplore.ieee.org/abstract/document/10606499)
+- Scalable and Efficient SSD-Based Lane Detection Model for Autonomous Vehicle Systems
+[Paper](https://ieeexplore.ieee.org/abstract/document/10892750?casa_token=vkRd0zDw8aMAAAAA:yu8g3vTGvmZEEiKYsfOla1im6xDQJLUjc13MKAYvz8FCCJl0YGJ4-kNtAVXMfm1Z2UMgRBx6iHc)
+- CBAM-Optimized Automatic Segmentation and Reconstruction System for Monocular Images With Asphalt Pavement Potholes
+[Paper](https://ieeexplore.ieee.org/abstract/document/10414375?casa_token=xYe7DFFKYmQAAAAA:5KgyDeFUvuXHOozozIXJF03T3ffjvIFkUbmtjLXYNwsKbyyhoaGRHj7f6YYpObV6JoWwF2H_40Q)
+- Bottom-Up Cracks Detection in Road Pavement in Artificial Neural Network
+[Paper](https://ieeexplore.ieee.org/abstract/document/10796029?casa_token=O3efSoW-8ysAAAAA:ZQ1lY-lxCwx7mIZABs-VSeVIflHpC_sCkgOijGk6qc_5D7nORz2unwherqwYel0exEk7_QwuSu4)
+- Automatic Detection of Asphalt Pavement Crack Width Based on Machine Vision
+[Paper](https://ieeexplore.ieee.org/abstract/document/10768199?casa_token=JWLgUodVpj4AAAAA:aJtyW_7oGnAWxF-t3kblrHYSNZ5YZ0TDfCHc4Hn9xH7M5zFGB-LzGRyN2y5Dw0LCBJNasAk5TyQ)
+- Efficient Lane Detection Method for Challenging Road Environments
+[Paper](https://ieeexplore.ieee.org/abstract/document/10531623)
+- Detection and Classification of Types of Cracks Using Deep Learning
+[Paper](https://ieeexplore.ieee.org/abstract/document/10624942?casa_token=LHSI64MxofQAAAAA:4mw1F_M2kP-JW-N4F339PjsB4ow0-nVkbCPA4XqAnsalVjNXSlWF_3U9kQBMCgIut412QKId464)
+- Research on Image Segmentation Methods of Highway Pavement Distress Based on Semantic Segmentation Convolutional Neural Network
+[Paper](https://ieeexplore.ieee.org/abstract/document/10671560?casa_token=q_j_KP0HP5EAAAAA:kvE016b6JryrvzZEZLmOW6IB1HVz2hlgfna128Ms2oa_JGMKCwsbyEUHIfuX_0QjGXp0v6Rq4vI)
+- Automated Pavement Distress Detection Based on Convolutional Neural Network
+[Paper](https://ieeexplore.ieee.org/abstract/document/10613388)
+- Classification Methoed of Cement Concrete Pavement Conditions Based on Improved EfficientNet
+[Paper](https://ieeexplore.ieee.org/abstract/document/10859908?casa_token=GKJ-ffby8aEAAAAA:9ScHUKxmoCjRoDoMxgurJtwL2LJ9a0GpArip35mNZLCoxfpH3lQuXz-oy4Y8NHLpQIpLrWsFpWk)
+- A Novel Applicable Shadow Resistant Neural Network Model for High-Efficiency Grid-Level Pavement Crack Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/10494809?casa_token=ee0emyL0GlIAAAAA:cExsslSVccIkiqiSN_OUrfd5Nr4nMbCj0AWXPEWKQNjs8_S_DGszkF_1610jxpiy3-xR76u0FJk)
+- Research on Automatic Identification of Asphalt Payment Defects Based on Deep Learning
+[Paper](https://ieeexplore.ieee.org/abstract/document/10548739)
+
 > 2023
 - Learning Light Fields for Improved Lane Detection
 [Paper](https://ieeexplore.ieee.org/abstract/document/9999224)
+- Gradient and self-attention enabled convolutional neural network for crack detection in smart cities
+[Paper](https://ieeexplore.ieee.org/abstract/document/10476066?casa_token=CLJCuqLvPRsAAAAA:0lCRhT042ehqaEA_6cd_rNNkzXP9Hw3Wg9vFMMbmQz-p-9NMDcPUMqU8lDxt75xjRopqtWP-yo4)
+- Smart Road Damage Survey System Using Machine Vision and IoT Technology
+[Paper](https://ieeexplore.ieee.org/abstract/document/10428992?casa_token=rNl3-N6_GAsAAAAA:DgfJpCUSH_fFcBAShrJCFVG3E_gdejFvCFyuTYwj6qeEM80TyNdll20w-hkg0e9C33kqVmT1KFc)
+- CrackNet: A Backbone Network for Pavement Crack Analysis
+[Paper](https://ieeexplore.ieee.org/abstract/document/10428479?casa_token=OLSFNDfpeQ8AAAAA:O-OKZs4QTpDqKfsu3FeTjfhQ2hPMga03dRU6y8d6t0zBnwtcuDl5PkD_ZFj8wJPdJE9asgMG9X8)
+- Enhanced Road Lane Marking Detection System: A CNN-Based Approach for Safe Driving
+[Paper](https://ieeexplore.ieee.org/abstract/document/10464405)
+- Analysis of Different Deep Learning Algorithms for Road Surface Damage Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/10150453?casa_token=iXL4i_dNA-8AAAAA:DqFJish13PkZfsVa1h-a1Yum8lRXoHxyrC5muxGHibJOBAjFKsUuucx7DqBuhiVAwF5o09jr6WU)
+- DRMNet: A Multi-Task Detection Model Based on Image Processing for Autonomous Driving Scenarios
+[Paper](https://ieeexplore.ieee.org/abstract/document/10187716?casa_token=2JWplK2kUVQAAAAA:2cAEUzWiaqvQH6DcL7b2eh8SYODc1no9oTqdVhqy1M9BUC59G97kQP2TU807_7MiDCBiA7kQdd8)
+- Novel Road Crack Detection Technology Based on Deep Learning
+[Paper](https://ieeexplore.ieee.org/abstract/document/10332661?casa_token=0YPy3ZZADwAAAAAA:B6LiLc3cIMavBzNkbiz6GfLbiG7mU-r-AyvlxiCVS3yy1K4fhVomEloqFHR7B1HuF4wCq6j833k)
+- Synergizing Low Rank Representation and Deep Learning for Automatic Pavement Crack Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/10132879?casa_token=SHX1iUoYjdkAAAAA:8PzUf5v8vIkTgvHCLBIzOddwtDh2KivONsRmwWSjirObcDVwimKhCSMWoGtDT1Xff6KDfWGA69g)
+- Intelligent identification of pavement cracks based on PSA-Net
+[Paper](https://doi.org/10.3389/fenvs.2023.1105467)
+- Automated Pixel-Level Detection of Expansion Joints on Asphalt Pavement Using a Deep-Learning-Based Approach
+[Paper](https://doi.org/10.1155/2023/7552337)
+- Automated Pavement Crack Detection Using Deep Feature Selection and Whale Optimization Algorithm
+[Paper](https://doi.org/10.32604/cmc.2023.042183)
+- Lane line detection and departure estimation in a complex environment by using an asymmetric kernel convolution algorithm
+[Paper](https://doi.org/10.1007/s00371-021-02353-6)
+- A Low-Cost Deep Learning System to Characterize Asphalt Surface Deterioration
+[Paper](https://doi.org/10.3390/rs15061701)
+- Comparison of deep convolutional neural network classifiers and the effect of scale encoding for automated pavement assessment
+[Paper](https://doi.org/10.1016/j.jtte.2022.08.002)
+- Comparing Different Deep Learning Architectures as Vision-Based Multi-Label Classifiers for Identification of Multiple Distresses on Asphalt Pavement
+[Paper](https://doi.org/10.1177/03611981221127273)
+- A hybrid deep learning pavement crack semantic segmentation
+[Paper](https://doi.org/10.1016/j.engappai.2023.106142)
+- Multi-scale triple-attention network for pixelwise crack segmentation
+[Paper](https://doi.org/10.1016/j.autcon.2023.104853)
+- Automated Segmentation and Deterioration Determination of Road Markings
+[Paper](https://doi.org/10.1061/JPEODX.PVENG-1181)
+- Crack segmentation in the wild using convolutional neural networks and bootstrapping
+[Paper](https://doi.org/10.1002/eer2.52)
+- Automatic identification of pavement cracks in public roads using an optimized deep convolutional neural network model
+[Paper](https://doi.org/10.1098/rsta.2022.0169)
+- Intelligent pixel-level pavement marking detection using 2D laser pavement images
+[Paper](https://doi.org/10.1016/j.measurement.2023.113269)
+- Advanced crack detection and quantification strategy based on CLAHE enhanced DeepLabv3+
+[Paper](https://doi.org/10.1016/j.engappai.2023.106880)
+- A Novel Road Crack Detection Technology Based on Deep Dictionary Learning and Encoding Networks
+[Paper](https://doi.org/10.3390/app132212299)
 
 > 2022
 - An Iteratively Optimized Patch Label Inference Network for Automatic Pavement Distress Detection
@@ -282,15 +450,130 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Dataset](https://dearcaat.github.io/CQU-BPDD/)
 - Crack Detection and Comparison Study Based on Faster R-CNN and Mask R-CNN
 [Paper](https://doi.org/10.3390/s22031215)
+- Beyond Crack: Fine-Grained Pavement Defect Segmentation Using Three-Stream Neural Networks
+[Paper](https://ieeexplore.ieee.org/abstract/document/9660770?casa_token=58P9zQSdKWcAAAAA:QmKSwjBSuMOUtrO3bKUYYU3FJBm-iHPTEFeQLKkBrZRF8M--KhlElxCQyAmErdjMnKmyfnuhMts)
 - Deep learning and infrared thermography for asphalt pavement crack severity classification
 [Paper](https://doi.org/10.1016/j.autcon.2022.104383)
 - Deep Metric Learning-Based for Multi-Target Few-Shot Pavement Distress Classification
 [Paper](https://ieeexplore.ieee.org/abstract/document/9459530?casa_token=ad6-6X-zSaoAAAAA:SJVx1FRXRB2cxx6txgHJsPcS74oxNhmVx7ePObAsG-7-EeZdifNlZY564KjrmytPIinBj2BphDU)
+- Robust Crack Detection Method by Reconstruction-Based Segmentation Network in Road Maintenance
+[Paper](https://ieeexplore.ieee.org/abstract/document/10065620?casa_token=6l55iZzm4TIAAAAA:PdqK5uNVuOxFBW80qFFakHO1eFX2G1f2CSgZXWuw5Rd1mxtIZzKeE8FS78cImMjqykzD2wYMYcI)
+- Fast Crack Segmentation with Depth-to-Space Operator for Pavement Maintenance
+[Paper](https://ieeexplore.ieee.org/abstract/document/9885168?casa_token=NTSkFuKyYlAAAAAA:Oi66OuWYOUYlAZMYIix863KsQ4-G2s2ePjNB4RhGarrjt4QT5Uf-HUlzjcdjIW1aGwd4_hXqLNw)
+- A Novel Deep Learning Method for the Identification and Categorization of Footpath Defects based on Thermography
+[Paper](https://ieeexplore.ieee.org/abstract/document/9951904?casa_token=BBnocN0gbyIAAAAA:EXN6RXAYMPdEbld7Br9xd_x01PWQ5rmGJN39s2Yd9vUd1jI4DXoV4VyNbN-3t3tBj61l1aSqq20)
+- Analysis of Deep Learning Methods for Fracture Segmentation of Road surface under on Encoder and Decoder
+[Paper](https://ieeexplore.ieee.org/abstract/document/9914306?casa_token=P44FKRRbscUAAAAA:1TLOGTmW1O5F1pBbN0soE1U5FnEG8gAWSl1Rj2nSM2MTLGoEqaYBgHRa9kXLbYjmkDbtNCpcgIg)
+- DMA-Net: DeepLab With Multi-Scale Attention for Pavement Crack Segmentation
+[Paper](https://ieeexplore.ieee.org/abstract/document/9741463?casa_token=LMTsws-6Wp0AAAAA:87CajOIuYbFSRvhRpMcN6zec2o6ISqgpXtZQKLbLYjjqX9fe_JLngu727Pncy-THNqdi9v2j0iA)
+- Deep-Learning-Based Intelligent PotholeEye+ Detection Pavement Distress Detection System
+[Paper](https://ieeexplore.ieee.org/abstract/document/9792696?casa_token=uUIs4moI_W0AAAAA:9wdrfyQgoD_zk8s9dvo6T634cFOwH0zHNmfswNWe-FREXpxyWgmREv0GmZvCBLd8nLez4E5Z6Ow)
+- A Deep Learning Method for Pavement Crack Identification Based on Limited Field Images
+[Paper](https://ieeexplore.ieee.org/abstract/document/9745469?casa_token=G9lQrgB0Z-kAAAAA:OBGGr8Rqqqw6kxhWJnesi9yRJvYwM0FRs5Xh6iJLCD5MiUNFSzou9SH6KTCJIkTV3dxMoX47Qnc)
+- You Need Dilated Convolution for Pavement Crack Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/10054860?casa_token=b8nx8OaaMBMAAAAA:Tu8fgP26AWUIONAw291Sh9zrX2sbv5P2K_V_uMAUuKTX6gOSJaNwj3fNa-R1ZdEt0Ku-lv5ozLc)
+- A two-stream crack detection model based on SegNet
+[Paper](https://ieeexplore.ieee.org/abstract/document/10036770?casa_token=tuzZU0zceCEAAAAA:jEZ0tMpHdco7cE3POFFuHvCpSQHWY3tT2AUyW52YD0NV2k-8cFyELLxRUdDlDUOjib0XlEo0qnI)
+- A Method of Hierarchical Feature Fusion and Connected Attention Architecture for Pavement Crack Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/9712196?casa_token=3tgFgxWYEgkAAAAA:_bgPX_8MWdig0N2FfcA6Cr3388wHBR1g_wvEhBj9PH4tohxy1vVvKXnwWQ7fqUDLdr-zPlXvXo8)
+- ConTrack Distress Dataset: A Continuous Observation for Pavement Deterioration Spatio-Temporal Analysis
+[Paper](https://ieeexplore.ieee.org/abstract/document/9899382?casa_token=pOCV8eoJeRgAAAAA:qgF5ahSz7Jt338M_Hh7oWm27ebHB7Ury90DNfkfRPH7K0NqO_MoE4dt7wi0aiYxiTjHHp7ClBvg)
+- LPCNet: Lane detection by lane points correction network in challenging environments based on deep learning
+[Paper](https://ieeexplore.ieee.org/abstract/document/9960098?casa_token=L_j0yPw5WqAAAAAA:iJGYVZ5u2AQiqDim1ZTnWw1Fyj6pppnF5a-WycG3Qxl6OJd-_P3Q3RmSl_OKpUTls0HOroOkRrs)
+- A Deep Learning based Process Model for Crack Detection in Pavement Structures
+[Paper](https://ieeexplore.ieee.org/abstract/document/9763286)
+- Linear Split Attention for Pavement Crack Detection
+[Paper](https://doi.org/10.1007/978-981-19-7943-9_6)
+- Efficient approach to automated pavement manhole cover detection with modified faster R-CNN
+[Paper](https://doi.org/10.1093/iti/liac006)
+- Automated asphalt pavement damage rate detection based on optimized GA-CNN
+[Paper](https://doi.org/10.1016/j.autcon.2022.104180)
+- Detection of Highway Pavement Damage Based on a CNN Using Grayscale and HOG Features
+[Paper](https://doi.org/10.3390/s22072455)
+- Automatic Pavement Defect Detection and Classification Using RGB-Thermal Images Based on Hierarchical Residual Attention Network
+[Paper](https://doi.org/10.3390/s22155781)
+- Automatic Detection and Assessment of Pavement Marking Defects with Street View Imagery at the City Scale
+[Paper](https://doi.org/10.3390/rs14164037)
+- Automatic damage segmentation in pavement videos by fusing similar feature extraction siamese network (SFE-SNet) and pavement damage segmentation capsule network (PDS-CapsNet)
+[Paper](https://doi.org/10.1016/j.autcon.2022.104537)
+- Asphalt pavement fatigue crack severity classification by infrared thermography and deep learning
+[Paper](https://doi.org/10.1016/j.autcon.2022.104575)
+- Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect
+[Paper](https://doi.org/10.3390/s22239365)
+
 > 2021
 - Multi-stage Deep Learning Technique with a Cascaded Classifier for Turn Lanes Recognition
 [Paper](https://ieeexplore.ieee.org/abstract/document/9659973)
+- Attention Based Coupled Framework for Road and Pothole Segmentation
+[Paper](https://ieeexplore.ieee.org/abstract/document/9412368?casa_token=FzNZ3JO_lp8AAAAA:VS1p2tisWyqV5pprWMXk8JgWXCE6E5NSwYQh8Fs1-gsBX8374ipNLOElZz0oeLEbv16unooes3w)
+- TB-Net: A Three-Stream Boundary-Aware Network for Fine-Grained Pavement Disease Segmentation
+[Paper](https://openaccess.thecvf.com/content/WACV2021/html/Zhang_TB-Net_A_Three-Stream_Boundary-Aware_Network_for_Fine-Grained_Pavement_Disease_Segmentation_WACV_2021_paper.html)
+- Road Surface Segmentation - Pixel-Perfect Distress and Object Detection for Road Assessment
+[Paper](https://ieeexplore.ieee.org/abstract/document/9551591?casa_token=jazJEufsgpEAAAAA:z5DYmfh8cAE9dfvZTU8kx-M_9RGW0qJ_3yJ8KXlLKryb0KRvAcSNrVaL3HYkwQ-42l2DEg2LLzU)
+- Automatic Inspection and Evaluation System for Pavement Distress
+[Paper](https://ieeexplore.ieee.org/abstract/document/9548777?casa_token=5sglSfsT62gAAAAA:74z9ESqKygAl82Ye-xPfqGSoLU66hUwLp275mOA1rTocWzDd-TpJpO5f7S3pjM70tuoTN8jJsE8)
+- Autonomous Road Pavement Inspection and Defect Analysis for Smart City Maintenance
+[Paper](https://ieeexplore.ieee.org/abstract/document/9483534?casa_token=wm8B8Oy0DlwAAAAA:shBO3AqYc3Pin-SLb2D2rTiGJjKPyX4xhziF3VqDH16E4ddjgErKgEqmPUO0TwNBeEZN-Iuwr-w)
+- Pavement Crack Detection Using Multi-stage Structural Feature Extraction Model
+[Paper](https://ieeexplore.ieee.org/abstract/document/9506369?casa_token=XLWQIusl5dIAAAAA:hN5bbGtEUXxaN4LV-lplmGN1u7GvF0uhJ4cNlgnj6s0HIS_3kpjSNo1qSVzMMCqgJym_BGhvpPc)
+- Pixel-Level Intelligent Segmentation and Measurement Method for Pavement Multiple Damages Based on Mobile Deep Learning
+[Paper](https://ieeexplore.ieee.org/abstract/document/9580900)
+- Pavement Crack Identification Based on Deep Learning and Denoising Model
+[Paper](https://ieeexplore.ieee.org/abstract/document/9654601?casa_token=Xj3M85xBPP0AAAAA:EpY3e512z1KHQgU4px8Fd9baJZyu1zj6VLT8tnPOJyXI2LWnT-Jq8xbPxEdn1xTMiFb5h28R7PY)
+- Automatic recognition and analysis system of asphalt pavement cracks using interleaved low-rank group convolution hybrid deep network and SegNet fusing dense condition random field
+[Paper](https://doi.org/10.1016/j.measurement.2020.108693)
+- Potholeeye+: Deep-learning based pavement distress detection system toward smart maintenance
+[Paper](https://doi.org/10.32604/cmes.2021.014669)
+- Pavement image data set for deep learning: A synthetic approach
+[Paper](https://doi.org/10.1061/9780784483503.025)
+- Concrete Crack Detection Algorithm Based on Deep Residual Neural Networks
+[Paper](https://doi.org/10.1155/2021/3137083)
+- Crack grid detection and calculation based on convolutional neural network
+[Paper](https://doi.org/10.1139/cjce-2020-0246)
+- Automatic detection of cracks in asphalt pavement using deep learning to overcome weaknesses in images and gis visualization
+[Paper](https://doi.org/10.3390/app11030892)
+- Crack detector automation for roads by deep learning
+[Paper](https://doi.org/10.1109/INDIACom51348.2021.00130)
+- Deep learning-based visual crack detection using Google Street View images
+[Paper](https://doi.org/10.1007/s00521-021-06098-0)
+- Pixel-level pavement crack segmentation with encoder-decoder network
+[Paper](https://doi.org/10.1016/j.measurement.2021.109914)
+- Multi-scale spatial convolution algorithm for lane line detection and lane offset estimation in complex road conditions
+[Paper](https://doi.org/10.1016/j.image.2021.116413)
+- RoadID: A Dedicated Deep Convolutional Neural Network for Multipavement Distress Detection
+[Paper](https://doi.org/10.1061/JPEODX.0000317)
+- Automatic Classification and Quantification of Basic Distresses on Urban Flexible Pavement through Convolutional Neural Networks
+[Paper](https://doi.org/10.1061/JPEODX.0000321)
+
 > 2020
--
+- Road Surface Marking Recognition and Road Surface Quality Evaluation Using Convolution Neural Network
+[Paper](https://ieeexplore.ieee.org/abstract/document/9271368)
+- FasterRCNN Monitoring of Road Damages: Competition and Deployment
+[Paper](https://ieeexplore.ieee.org/abstract/document/9377871?casa_token=XF9AavBMSM4AAAAA:YVO-bPTm-i3lDW8QNKui0a9-JbXFMg3idSLdPPEPhbLfQT-P307TR9KP228QefZ0e-5inTKXYdY)
+- Detecting Various Road Damage Types in Global Countries Utilizing Faster R-CNN
+[Paper](https://ieeexplore.ieee.org/abstract/document/9378245?casa_token=HQXpet_wuvcAAAAA:alRv5iXkMemDMvkQBMcLXQM5QFVEkPMy71QdkhW2F7pXhCttAjdHHNwY7N7ok4PWIJv2v_DR3h0)
+- A Two-Stream Context-Aware ConvNet for Pavement Distress Detection
+[Paper](https://ieeexplore.ieee.org/abstract/document/9163538?casa_token=1PGBrEtuEekAAAAA:XPpnYNArSYSxjiyoHAnCEBUTj9n_DyOfHVfdTFbgckhNvIyccNOfijtZOGjC0ORtgU-3iY1ZSAg)
+- Pixel-Level Cracking Detection on 3D Asphalt Pavement Images Through Deep-Learning- Based CrackNet-V
+[Paper](https://ieeexplore.ieee.org/abstract/document/8620557?casa_token=C4DTWaThZ3UAAAAA:67Ek3R3fT6aJMNlVTiauQxnlPAN6ilU9TYSzK723Fz-Oh_txNbH3dDpozcJ9Q1Bgb2V409O3ZeE)
+- Towards low-cost pavement condition health monitoring and analysis using deep learning
+[Paper](https://doi.org/10.3390/app10010319)
+- Internet of things with bio-inspired co-evolutionary deep-convolution neural-network approach for detecting road cracks in smart transportation
+[Paper](https://link.springer.com/article/10.1007/s00521-020-05401-9)
+- Pavement Crack Detection and Segmentation Method Based on Improved Deep Learning Fusion Model
+[Paper](https://doi.org/10.1155/2020/8515213)
+- Densely connected deep neural network considering connectivity of pixels for automatic crack detection
+[Paper](https://doi.org/10.1016/j.autcon.2019.103018)
+- Ensemble of deep convolutional neural networks for automatic pavement crack detection and measurement
+[Paper](https://www.mdpi.com/2079-6412/10/2/152)
+- Road Crack Detection Using Deep Neural Network with Receptive Field Block
+[Paper](https://doi.org/10.1088/1757-899X/782/4/042033)
+- Deep learning-based roadway crack classification using laser-scanned range images: A comparative study on hyperparameter selection
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580519312798?casa_token=PVqvSwGLwLgAAAAA:q_fiVHsXmhv-JSp37Fj_BbmuS5LiGj8mI92BPP5Tvjzou0wUMUIG41uXc2sWXrSRkW1Yyn_BGhJm)
+- ARF-Crack: rotation invariant deep fully convolutional network for pixel-level crack detection
+[Paper](https://doi.org/10.1007/s00138-020-01098-x)
+- Pavement defect detection with fully convolutional network and an uncertainty framework
+[Paper](https://doi.org/10.1111/mice.12533)
 
 ### GAN
 > 2025
@@ -377,22 +660,56 @@ A database including links to open-source datasets, codes, and papers analyzed i
 [Paper](https://ieeexplore.ieee.org/abstract/document/11079337?casa_token=EFb8zxRYWM4AAAAA:qYWdOld1h8v1max2YARbdI2Bod4lGQ_gQKe0O2l5GAVvkq7oGC5qR9uZdZzlYMNhi8P5vsuqWE0)
 - Meso-structural characterization of asphalt mixture via RAN-UNet segmentation and 3D reconstruction: Insights into FAM void evolution
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950061825040462)
+- Construction and optimization of asphalt pavement texture characterization model based on binocular vision and deep learning
+[Paper](https://www.sciencedirect.com/science/article/pii/S0263224125003057?casa_token=rrT35FP539kAAAAA:aU4_6p2h3VCBdX2fQbvEIBLPkp9iWM_zjygc-GN5drlA5hgu1r6tfYhg5Fs8ahy255clBgh28x9b)
 - Aggregate-level 3D analysis of asphalt pavement deterioration using laser scanning and vision transformer
 [Paper](https://www.mdpi.com/1424-8220/25/21/6756)
 - On the Applicability of Multimodal Neural Network Methods for Determining the Quality of the Road Surface
 [Paper](https://ieeexplore.ieee.org/abstract/document/11079337)
 - Comparative Analysis of Upsampling Algorithms for Pavement Point Clouds: Toward 3D Pavement Distress Inspection
 [Paper](https://ascelibrary.org/doi/abs/10.1061/JPEODX.PVENG-1830?casa_token=gDort96YlAsAAAAA:JjKCthdyW5VjNylLAKhCn7L84lcP2Oxd0rNs7NbgHUgJJSj7XLrkeSztNH3tIBr0y9GmK3SQ5V7-)
+- Graph neural network-based 3D asphalt concrete pavement response modelling
+[Paper](https://www.tandfonline.com/doi/abs/10.1080/10298436.2025.2464201?casa_token=YtWP6O0DPRMAAAAA:BB9nRNKs_V3T3SXvnidpHta4i2WQW8z5cIlMYeFF55FTt2Ig8FfzCxIeiAOiWJIuiQmmSsxGGsrdhEI)
+- Intelligent Evaluation of Permeability Function of Porous Asphalt Pavement Based on 3D Laser Imaging and Deep Learning
+[Paper](https://www.mdpi.com/2075-4442/13/7/291)
+- A Multi-Resolution Attention U-Net for Pavement Distress Segmentation in 3D Images: Architecture and Data-Driven Insights
+[Paper](https://www.mdpi.com/2227-7390/13/17/2752)
+- 3D detection of pavement cracking utilizing a neural radiation field (NeRF) and semantic segmentation network
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224125006955?casa_token=g0aFIbCNb1MAAAAA:yigfs37T4SVk7-iXsNgz0OQVtpl0dudBhQqW41iIHIQ89A8QEUc9OmxXbONMR4nNKtnb2GevPJmv)
+- Oriented Road Marking Detection in MLS Point Cloud Intensity Images Using Channel and Spatial Attention
+[Paper](https://ieeexplore.ieee.org/abstract/document/10985801)
 > 2024
 - LiDAR-Based Automatic Pavement Distress Detection and Management Using Deep Learning and BIM
 [Paper](https://doi.org/10.1061/JCEMD4.COENG-14358)
+- Automated Concrete Pavement Slab Joint Detection Using Deep Learning and 3D Pavement Surface Images
+[Paper](https://link.springer.com/article/10.1007/s42947-023-00290-2)
 - PAN: Improved PointNet++ for Pavement Crack Information Extraction
 [Paper](https://www.mdpi.com/2079-9292/13/16/3340)
 - Pavement Point Cloud Upsampling Based on Transformer: Toward Enhancing 3D Pavement Data
 [Paper](https://ieeexplore.ieee.org/abstract/document/10682468?casa_token=QfXCI5DahRsAAAAA:7IRRhJpQ20DU6ngatE8efjGZVZgLL1fiUnjnXJiJ-Z3AF7CAqqhhXux0YTK8Z1aVNYwYrpHW1n0)
+- Deep Convolutional Neural Networks for Automated Road Damage Detection
+[Paper](https://doi.org/10.1007/978-981-97-6222-4_12)
+
 > 2023
 - Pavement Crack Detection Based on 3D Edge Representation and Data Communication With Digital Twins
 [Paper](https://ieeexplore.ieee.org/abstract/document/9852817?casa_token=z5Au8Y8KJ08AAAAA:mXlOwSYVGWVpzH_2IKMbeD0jl55i0F0EkZrKpZozmI3yyqCBcWPN-t8_AIkEeTDv7yG2arzMw7Q)
+- A Content-Adaptive Hierarchical Deep Learning Model for Detecting Arbitrary-Oriented Road Surface Elements Using MLS Point Clouds
+[Paper](https://ieeexplore.ieee.org/abstract/document/10008051?casa_token=AOv08bpzlUcAAAAA:1hhb1yC0sBqWtY481t2d8A7qhYTIz8ZHvERawQtZA_5pm_LuXsz68FPAsz93OVFloRQ21dzvTYA)
+- Deep Learning-Based Autonomous Road Condition Assessment Leveraging Inexpensive RGB and Depth Sensors and Heterogeneous Data Fusion: Pothole Detection and Quantification
+[Paper](https://doi.org/10.1061/JPEODX.PVENG-1194)
+- A novel approach for pavement distress detection and quantification using RGB-D camera and deep learning algorithm
+[Paper](https://doi.org/10.1016/j.conbuildmat.2023.133593)
+
+> 2022
+- PCDNet: Seed Operation-Based Deep Learning Model for Pavement Crack Detection on 3D Asphalt Surface
+[Paper](https://doi.org/10.1061/JPEODX.0000367)
+- Advanced pavement distress recognition and 3D reconstruction by using GA-DenseNet and binocular stereo vision
+[Paper](https://doi.org/10.1016/j.measurement.2022.111760)
+- SHREC 2022: Pothole and crack detection in the road pavement using images and RGB-D data
+[Paper](https://doi.org/10.1016/j.cag.2022.07.018)
+> 2020
+- Crack Detection and Segmentation Using Deep Learning with 3D Reality Mesh Model for Quantitative Assessment and Integrated Visualization
+[Paper](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0000890?casa_token=wim-LQRUxVUAAAAA%3AiNlUVs662dH-6XznZmh7UeE58AFxvvTTVvOXeErg1cWorhi5bCeS1j1tup1ZY5SKfCkjSjql5bLm)
 
 ### PINN
 > 2025
