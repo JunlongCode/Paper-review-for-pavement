@@ -1,5 +1,27 @@
 # Pavement surface distress detection based on deep learning: A systematic review
-A database including links to open-source datasets, codes, and papers analyzed in the review paper from 01/01/2020 to 12/31/2025. 
+Papers related to pavement surface distress detection from 01/01/2020 to 12/31/2025, including:
+- Open-source datasets
+- Label tools
+- Classical base models codes
+- Model architectures
+  - YOLO
+  - U-Net
+  - Transformer
+  - Classical or novel CNN architectures
+  - GAN
+  - Diffusion models
+  - 3D models
+  - PINN
+  - Mamba
+  - GCN
+- Learning paradigms
+  - Transfer learning
+  - Semi-supervised
+  - Weakly-supervised 
+  - Unsupervised/Self-supervised 
+  - Reinforce learning 
+  - Ensemble learning 
+- Inference acceleration
 
 
 ## Open-source datasets
@@ -1364,7 +1386,7 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Semi-Supervised Semantic Segmentation Using Adversarial Learning for Pavement Crack Detection
 [Paper](https://ieeexplore.ieee.org/abstract/document/9032091)
 
-### Weakly-supervised
+### Weakly-supervised 
 > 2025
 - A weakly-supervised deep learning model for end-to-end detection of airfield pavement distress
 [Paper](https://www.sciencedirect.com/science/article/pii/S2046043024000303)
@@ -1388,7 +1410,7 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Weakly supervised network based intelligent identification of cracks in asphalt concrete bridge deck
 [Paper](https://www.sciencedirect.com/science/article/pii/S1110016820300910)
 
-### Unsupervised/Self-supervised
+### Unsupervised/Self-supervised 
 > 2025
 - Efficient crack segmentation with multi-decoder networks and enhanced feature fusion
 [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625006979)
@@ -1428,7 +1450,7 @@ A database including links to open-source datasets, codes, and papers analyzed i
 - Unsupervised Pixel-level Crack Detection Based on Generative Adversarial Network
 [Paper](https://doi.org/10.1145/3404716.3404720)
 
-### Reinforce learning
+### Reinforce learning 
 > 2024
 - Pavement Crack Detection Algorithm Based on Reinforcement Learning and Traditional Supervised Learning
 [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13089/130890U/Pavement-crack-detection-algorithm-based-on-reinforcement-learning-and-traditional/10.1117/12.3021180.full)
