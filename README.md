@@ -26,9 +26,7 @@ Papers related to pavement surface distress detection from 01/01/2020 to 12/31/2
 
 ## Open-source datasets
 - RDD
-[Github](https://github.com/sekilab/RoadDamageDetector)
-
-[Link](https://data.mendeley.com/datasets/27c8pwsd6v/4)
+[Github](https://github.com/sekilab/RoadDamageDetector) [Link](https://data.mendeley.com/datasets/27c8pwsd6v/4)
 - CQU-BPDD 
 [Github](https://github.com/DearCaat/Pavement-Distress-Classification)
 - GAPs
